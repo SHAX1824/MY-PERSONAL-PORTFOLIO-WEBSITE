@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+    background-color:tan;
+
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.projects {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+#back{
+  margin-right:1200px;
+  margin-bottom:10px;
+  
+}
+.project {
+  width: 500px;
+  margin:40px;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+#img{
+    height:500px;
+    width:500px;
+}

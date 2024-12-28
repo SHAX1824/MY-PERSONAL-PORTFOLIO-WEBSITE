@@ -1,0 +1,64 @@
+body{
+    background-color:tan;
+}
+.h2{
+    text-align:center;
+}
+.data{
+    text-align:center;
+    line-height:40px;
+}
+#back{
+    margin-right:1200px;
+    margin-top:-50px;
+}
+#h3{
+    color:white;
+    background-color:red;
+    text-align:center;
+}
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  .projects {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .project {
+    width: 500px;
+    margin:40px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+#cer1{
+    height:300px;
+    width:600px;
+}
+#cer2{
+    height:300px;
+    width:600px;
+}
+  
+#cer3{
+    height:300px;
+    width:600px;
+}
+  
+#cer4{
+    height:300px;
+    width:600px;
+}
+.img1{
+    padding:15px;
+}
+.img2{
+    padding:15px;
+}
+    
+  
